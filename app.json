@@ -2,6 +2,7 @@
   "expo": {
     "name": "expo-react-native-template",
     "slug": "expo-react-native-template",
+    "owner": "aitoralejandro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
