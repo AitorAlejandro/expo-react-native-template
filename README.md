@@ -1,1 +1,1 @@
-# expor-react-native-template
+# expo-react-native-template
